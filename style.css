@@ -1,0 +1,28 @@
+table {
+    border: 5px solid yellowgreen;
+    width: 5cm;
+    height: 6cm;
+}
+
+td {
+    border: 1px solid black;
+}
+
+th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+button {
+    width: 1.25cm;
+    height: 1cm;
+    font-size: large;
+}
+
+.operation {
+    background-color: rgb(192, 192, 192);
+}
+
+#display {
+    margin: 0px;
+}
